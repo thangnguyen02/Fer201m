@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Change color</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+    <span id="1" onclick="color(this)" class="color clr1"></span>
+    <span id="2" onclick="color(this)" class="color clr2"></span>
+    <span id="3" onclick="color(this)" class="color clr3"></span>
+    <span id="4" onclick="color(this)" class="color clr4"></span>
+    <script src="myCode.js"></script>
+</div>
+</body>
+</html>
